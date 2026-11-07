@@ -1,6 +1,6 @@
 ---
 name: long-task-checkpointing
-description: Run long AI-agent tasks so they survive context limits, crashes, and machine restarts: checkpoint state to files and resume from disk instead of memory. Use for any agent job longer than one session.
+description: "Run long AI-agent tasks so they survive context limits, crashes, and machine restarts: checkpoint state to files and resume from disk instead of memory. Use for any agent job longer than one session."
 ---
 
 # Long-Task Checkpointing
